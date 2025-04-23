@@ -1,0 +1,18 @@
+Ejercicios hechos en la clase 22/04/25
+
+1 -- 20/330 = 0,0606060606060606
+
+0.1 amperios
+
+2 -- 5/4 = 1,25
+
+3 -- 5kilovoltios entre 4 emperios da  1250ohmnios
+
+4 -- 5000 / 4000000 da 0,00125
+
+5 -- 0.1 gigaamperio y una resistencia de 1.15 megaohmnios : voltaje es 
+
+100000000 amperios / 1150000 ohmnios : 86,95652173913043 voltios
+
+#falle estrepitosamente era * 115 petavoltios
+87voltios
