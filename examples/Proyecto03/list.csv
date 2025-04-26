@@ -1,0 +1,5 @@
+﻿Nombre,Cantidad,Componente
+"UUNO",1," Arduino Uno R3"
+"UTMP",1," Sensor de temperatura [TMP36]"
+"RR1, RR2, RR3",3,"220 Ω Resistencia"
+"DRED1, DRED2, DRED3",3,"Rojo LED"
