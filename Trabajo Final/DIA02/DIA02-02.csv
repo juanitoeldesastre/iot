@@ -1,0 +1,8 @@
+﻿Nombre,Cantidad,Componente
+"UUNO",1," Arduino Uno R3"
+"RRED, RYELLOW, RGREEN",3,"200 Ω Resistencia"
+"D1",1,"Rojo LED"
+"D2",1,"Amarillo LED"
+"D3",1,"Verde LED"
+"Digit7",1,"Ánodo Visualizador de 7 segmentos"
+"RRR, RRR2",2,"220 Ω Resistencia"

@@ -1,0 +1,6 @@
+﻿Nombre,Cantidad,Componente
+"UUNO",1," Arduino Uno R3"
+"KEYPADKEYS",1," Teclado 4x4"
+"SERVOSERVO",1,"Posicional Microservomotor"
+"R1, R2, R3",3,"220 Ω Resistencia"
+"ULCD",1," LCD 16 x 2"
